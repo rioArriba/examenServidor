@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "Orson Scott Card",
+        "nacionalidad": "estadounidense"
+    },
+    {
+        "id": 2,
+        "nombre": "J.R.R. Tolkien",
+        "nacionalidad": "inglés"
+    },
+    {
+        "id": 3,
+        "nombre": "Milan Kundera",
+        "nacionalidad": "checo"
+    },
+    {
+        "id": 4,
+        "nombre": "Haruki Murakami",
+        "nacionalidad": "japonés"
+    }
+
+]
